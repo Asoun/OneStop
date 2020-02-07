@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: akuma869
+Build-Jdk: 11.0.2
+Implementation-Title: swagger-spring
+Implementation-Version: 1.0.0
+Implementation-Vendor-Id: io.swagger
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: https://projects.spring.io/spring-boot/swagger-sprin
+ g/
+Created-By: Maven Integration for Eclipse
+
